@@ -1,6 +1,6 @@
 const buttonColors = ["red", "blue", "green", "yellow"];
 
-var delay = 500;
+var delay = 800;
 
 var audios = {
     red: new Audio("sounds/red.mp3"),
